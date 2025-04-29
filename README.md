@@ -4,7 +4,7 @@
 ## Thread-Based Process Simulation and Synchronization
 
 ### Course
-Operating Systems 4320–6320 (Spring 2025)
+Operating Systems 4320 (Spring 2025)
 
 ### Project Overview
 This project simulates real-time process execution using Java threads and implements a classic synchronization problem using mutexes and semaphores.
@@ -43,9 +43,6 @@ This project simulates real-time process execution using Java threads and implem
 ### Requirements
 - Java Development Kit (JDK) 17 or later.
 - Any IDE like VS Code, IntelliJ, Eclipse, or simply Terminal.
-
-### Screenshots
-*(Insert terminal outputs or demo screenshots here.)*
 
 ### Lessons Learned
 - Multithreading in Java.
