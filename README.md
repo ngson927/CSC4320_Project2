@@ -54,9 +54,9 @@ This project simulates real-time process execution using Java threads and implem
 - Managing thread safety and avoiding race conditions.
 
 ### Author
-Son Nguyen
-Sheila Corona
-Harry Cao
+- Son Nguyen
+- Sheila Corona
+- Harry Cao
 April 2025
 
 ---
