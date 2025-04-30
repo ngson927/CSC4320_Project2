@@ -54,6 +54,5 @@ This project simulates real-time process execution using Java threads and implem
 - Son Nguyen
 - Sheila Corona
 - Harry Cao
-April 2025
 
 ---
